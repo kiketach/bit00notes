@@ -1,2 +1,2 @@
 # bit00notes
-Primer Repo
+Autor: Enrique Abril
