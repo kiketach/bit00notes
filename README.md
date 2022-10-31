@@ -1,4 +1,4 @@
-# Title: bit00notes
-## Description: My first repository
-### Author
-[Enrique Abril](https://www.instagram.com/enriqueabrilc/)
+# bit00notes
+## **Welcome to my first repository**
+### Contact me:
+[Enrique Abril C](https://www.instagram.com/enriqueabrilc/)
