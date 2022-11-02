@@ -1,4 +1,4 @@
 # bit00notes
-## *Welcome to my first repository*
+## *Realizacion de mi primer repo*
 ### Contact me:
 [Enrique Abril C](https://www.instagram.com/enriqueabrilc/)
